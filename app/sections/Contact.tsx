@@ -1,6 +1,6 @@
 'use client';
 import { motion } from 'framer-motion';
-import { FaLinkedin, FaGithub, FaEnvelope } from 'react-icons/fa';
+import { FaLinkedin, FaEnvelope } from 'react-icons/fa';
 
 const Contact = () => {
   return (
@@ -45,7 +45,7 @@ const Contact = () => {
             </motion.a>
           </div>
           <p className="text-gray-600 dark:text-gray-300">
-            I'm currently pursuing my Master's at The George Washington University and am open to new opportunities.
+            I&apos;m currently pursuing my Master&apos;s at The George Washington University and am open to new opportunities.
             Feel free to reach out!
           </p>
         </motion.div>
