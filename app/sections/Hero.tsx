@@ -12,13 +12,13 @@ const Hero = () => {
           className="text-center"
         >
           <h1 className="text-5xl md:text-7xl font-bold mb-6">
-            Hi, I'm <span className="text-blue-600">Sanjay V Devang</span>
+            Hi, I&apos;m <span className="text-blue-600">Sanjay V Devang</span>
           </h1>
           <h2 className="text-2xl md:text-3xl text-gray-600 dark:text-gray-300 mb-8">
             Technical Analyst & Cloud Solutions Specialist
           </h2>
           <p className="text-lg md:text-xl text-gray-600 dark:text-gray-400 max-w-2xl mx-auto mb-12">
-            Master's student at GWU with expertise in cloud computing, automation, and full-stack development.
+            Master&apos;s student at GWU with expertise in cloud computing, automation, and full-stack development.
             Passionate about creating efficient solutions and driving technological innovation.
           </p>
           <motion.div
